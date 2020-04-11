@@ -1,0 +1,2 @@
+# Akhil-leo
+John and Megan have three sons - William, David, and Adam. The wives of William, David, and Adam are Emma, Olivia, and Lily respectively. William and Emma have two children - Chris and Stephanie. David and Olivia have five children - Wayne, Tiffany, Julie, Neil, and Peter. Adam and Lily have one child - Sophia. Based on these facts, we can create a program that can tell us the name of Wayne's grandfather or  Sophia's uncles are. Even though we have not explicitly specified anything about the grandparent or uncle relationships, logic programming can infer them.
